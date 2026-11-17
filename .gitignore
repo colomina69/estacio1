@@ -1,0 +1,5 @@
+node_modules
+
+# Secretos locales (token InfluxDB, contraseña MQTT). Nunca al repositorio.
+.env
+.env*.local

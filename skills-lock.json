@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "skills": {
+    "expo-data-fetching": {
+      "source": "expo/skills",
+      "commit": "dfdebcc6c4c1bf7a9471cefd6b6f39c7ba6c884d",
+      "sourceType": "github",
+      "skillPath": "plugins/expo/skills/expo-data-fetching/SKILL.md",
+      "computedHash": "5566b445229ee4751aca90f0f08e06af0c53aa16d2227f20e9137c264cb9bc6e"
+    },
+    "expo-project-structure": {
+      "source": "expo/skills",
+      "commit": "dfdebcc6c4c1bf7a9471cefd6b6f39c7ba6c884d",
+      "sourceType": "github",
+      "skillPath": "plugins/expo/skills/expo-project-structure/SKILL.md",
+      "computedHash": "1d8d0089c3f367cda801f2b675d8df6b773806b62ffb8d88b390bed9f10fa607"
+    },
+    "expo-ui": {
+      "source": "expo/skills",
+      "commit": "dfdebcc6c4c1bf7a9471cefd6b6f39c7ba6c884d",
+      "sourceType": "github",
+      "skillPath": "plugins/expo/skills/expo-ui/SKILL.md",
+      "computedHash": "7cc34e3ee3d44ee6f754f4cc57bf64d18225ec8d8993d9540a33b9779c540de4"
+    }
+  }
+}
